@@ -7,6 +7,7 @@ Compile with `cc chip8.c APP.c -o chip8 -lSDL2`.
 Run with `./chip8 INVADERS`.
 
 ![Space Invaders](https://github.com/lucasimi/chip8/blob/master/invaders1.png)
+![Space Invaders](https://github.com/lucasimi/chip8/blob/master/invaders2.png)
 
 ## Keypad Layout
 chip8 keypad uses the following layout:
