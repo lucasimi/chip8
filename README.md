@@ -1,9 +1,12 @@
 # chip8
-A CHIP-8 virtual machine
+A CHIP-8 virtual machine implemented in C with SDL2
 
 ## Usage
-Compile with `cc chip8.c -o chip8 -Wall -lSDL2`;
-Run with `./chip8 filename`.
+Compile with `cc chip8.c APP.c -o chip8 -lSDL2`.
+
+Run with `./chip8 INVADERS`.
+
+![Space Invaders](https://github.com/lucasimi/chip8/invaders1.png)
 
 ## Keypad Layout
 chip8 keypad uses the following layout:
